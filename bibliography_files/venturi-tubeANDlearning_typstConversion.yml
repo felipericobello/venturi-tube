@@ -1,0 +1,88 @@
+costa2020:
+  type: article
+  title: EXPERIMENTAL AND NUMERICAL STUDY OF A VENTURI TUBE AS A DIDACTIC TOOL FOR CHEMICAL ENGINEERING LEARNING
+  author:
+    name: Costa
+    given-name: CAIO GUILHERME SALES FERREIRA, Giovanna Kellen Tavares de Andrade, Felipe Leonardo Barcelos Mateus, Renata de Aquino Brito Lima Corrêa
+    prefix: Felipe Orlando da
+    suffix: Jéssica Trindade Martins
+  date: 2020
+  page-range: 409–415
+  serial-number:
+    doi: 10.18540/jcecvl6iss3pp0409-0415
+  parent:
+    type: periodical
+    title: The Journal of Engineering and Exact Sciences
+    issue: 3
+    volume: 6
+
+lopez2009:
+  type: article
+  title: Computational fluid dynamics (CFD) models in the learning process of Hydraulic Engineering
+  author: P. A. López, Francisco J. Martínez, Joaquín Izquierdo, José J. Mora
+  date: 2009
+  page-range: 252–260
+  serial-number:
+    doi: 10.1002/cae.20248
+  parent:
+    type: periodical
+    title: Computer Applications in Engineering Education
+    issue: 2
+    volume: 18
+
+cooke2010:
+  type: article
+  title: The Production of a Microsoft Excel Tool to Assist in the Teaching of the Use of Venturi Tubes to Calculate Mass Flow Rates and Their Associated Uncertainties
+  author: Adam Cooke, Nicholas J. Regan
+  date: 2010
+  page-range: 56–72
+  serial-number:
+    doi: 10.7227/ijmee.38.1.5
+  parent:
+    type: periodical
+    title: International Journal of Mechanical Engineering Education
+    issue: 1
+    volume: 38
+
+kang2013:
+  type: article
+  title: 'Development of Virtual Equipment: Case Study of the Venturi Tube Experiment'
+  author: Shih-Chung Kang, Chiao-Yun Lu, Jihn-Sung Lai, Tim-Hau Lee, Ying-Chieh Chan
+  date: 2013
+  page-range: 281–289
+  serial-number:
+    doi: 10.1061/(asce)ei.1943-5541.0000158
+  parent:
+    type: periodical
+    title: Journal of Professional Issues in Engineering Education and Practice
+    issue: 4
+    volume: 139
+
+wang2022:
+  type: article
+  title: Multiphase Flowrate Measurement With Multimodal Sensors and Temporal Convolutional Network
+  author: Haokun Wang, Maomao Zhang, Nan Li, Yunjie Yang, Delin Hu
+  date: 2022
+  page-range: 4508–4517
+  serial-number:
+    doi: 10.1109/jsen.2022.3171406
+  parent:
+    type: periodical
+    title: IEEE Sensors Journal
+    issue: 5
+    volume: 23
+
+chan2008:
+  type: article
+  title: Development of virtual equipment for a hydraulic mechanics experiment
+  author: Yinq-Chleh Chan, Shih‐Chung Kang, Tim-Hau Lee, Ya-Hsin Chen
+  date: 2008
+  page-range: 261–265
+  serial-number:
+    doi: 10.1016/s1007-0214(08)70159-7
+  parent:
+    type: periodical
+    title: Tsinghua Science & Technology
+    issue: S1
+    volume: 13
+
